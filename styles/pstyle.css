@@ -1,0 +1,25 @@
+.button{
+    
+}
+.container{
+    display: flex;
+    /* justify-content: center; */
+/* justify-content: first baseline; */
+/* align-items:center; */
+
+}
+.box{
+    height: 150px;
+    width: 150px;
+    color: brown;
+    background-color: bisque;
+    
+
+
+
+}
+.box2{
+    background-color:aqua ;
+
+
+}
