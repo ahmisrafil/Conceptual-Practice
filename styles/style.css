@@ -72,3 +72,13 @@
 .btn:hover{
     color: aqua;
 }
+.about-container{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-around;
+    padding: 10px;
+}
+.about-title{
+    text-align: center;
+    padding: 20px;
+}
