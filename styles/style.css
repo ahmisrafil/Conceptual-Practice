@@ -109,3 +109,35 @@
 .box-title{
     padding: 10px;
 }
+
+.contact-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-image: none, linear-gradient(45deg, #000, hsl(0, 0%, 27%));
+    color: white;
+    padding-top: 40px;
+    
+}
+.support{
+    width: 180px;
+    height: 300px;
+    text-align: center;
+    padding: 15px;
+
+}
+.detail{
+    padding-top: 60px;
+    
+}
+.head{
+    padding-bottom: 20px;
+}
+.footer{
+    text-align: center;
+    background-color:#000 ;
+    color: white;
+    height: 150px;
+    font-size: small;
+    padding-top: 50px;
+}
